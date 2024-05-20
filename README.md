@@ -1,5 +1,3 @@
-# Pradyumna's_excel_projects
-
 # [Project 1: Adidas US Sales Analysis](https://github.com/pradyumna-burly/adidas_US_sales_analysis)
 
 This project features a dashboard illustrating sales trends for Adidas US from 2020 to 2021. It offers interactive visualization, data slicers for filtering by dimensions like time period and product categories, and detailed insights. The dataset comprises sales data with attributes including retailer, invoice date, region, product, and sales metrics like units sold and total sales.
